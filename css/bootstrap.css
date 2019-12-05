@@ -460,8 +460,8 @@ h3 {
 h4,
 h5,
 h6 {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h1,
@@ -535,7 +535,7 @@ li.publication {
 }
 
 h4 {
-   margin: 20px 0 20px 0;
+   margin: 20px 0 10px 0;
 }
 
 .list-unstyled {
