@@ -314,9 +314,9 @@ textarea {
   line-height: inherit;
 }
 
+
 a {
   color: #350ded;
-  text-decoration: none;
 }
 
 a:hover,
@@ -2450,6 +2450,7 @@ button.close {
   position: relative;
   display: block;
   padding: 10px 15px;
+  text-decoration: none;
 }
 
 .nav > li > a:hover,
